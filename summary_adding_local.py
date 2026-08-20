@@ -106,9 +106,9 @@ def process_chapter(filepath, filename):
 
             # Length check
             word_count = len(draft.split())
-            if word_count > 700 :
-                log.warning(f"[Length] {filename}: {word_count} words (want less than {700}). Retrying...\n")
-                temperature += 0.05 #just so it will try smtg new 
+            if word_count < 350:
+                log.warning(f"[Length] {filename}: {word_count} words (too short, want >= 350). Retrying...\n")
+                temperature += 0.05 
                 continue
 
             #overlap Check 
