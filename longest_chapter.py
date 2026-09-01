@@ -4,7 +4,7 @@ import json
 longest = 0 
 chapter_num = None
 
-DATA_DIR = "gemini_data"
+DATA_DIR = "../DATA/gemini_data"
 
 files = sorted([f for f in os.listdir(DATA_DIR) if f.endswith(".json")])
 
