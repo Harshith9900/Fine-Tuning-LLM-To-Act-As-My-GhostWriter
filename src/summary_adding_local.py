@@ -12,8 +12,8 @@ NUM_CTX = 8192 # enough context length to hold 1500-2000 words
 MAX_RETRIES = 3
 MAX_OVERLAP_RATIO = 0.40
 
-LOG_FILE = "test_run.log"
-FAIL_LOG_FILE = "final_test_run.log"
+LOG_FILE = "../LOG_FILES/test_run.log"
+FAIL_LOG_FILE = "../LOG_FILES/final_test_run.log"
 
 logging.basicConfig(
     level=logging.INFO,
