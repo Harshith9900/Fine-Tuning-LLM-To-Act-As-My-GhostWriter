@@ -6,7 +6,7 @@ from tqdm import tqdm
 from datetime import timedelta
 import ollama
 
-DATA_DIR= "data_local"
+DATA_DIR= "../DATA/data_local"
 MODEL_NAME = "qwen2.5:32b"
 NUM_CTX = 8192 # enough context length to hold 1500-2000 words 
 MAX_RETRIES = 3
