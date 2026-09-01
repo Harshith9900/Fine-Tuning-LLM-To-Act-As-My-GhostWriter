@@ -4,8 +4,8 @@ import random
 import glob
 
 # Configuration
-INPUT_DIR = "./gemini_data" 
-OUTPUT_DIR = "./compile_data"
+INPUT_DIR = "../DATA/gemini_data" 
+OUTPUT_DIR = "../DATA/compile_data"
 VALIDATION_SPLIT_COUNT = 260
 SYSTEM_PROMPT = "Expand this rough draft into a full chapter in the style of webnovel novel:\n\n"
 
