@@ -1,4 +1,3 @@
-# writing comments in such a way i am talking to you and explaining why i wrote what i wrote this is not meant to be a professional project so dont expect professional comments
 import os
 import json
 import time
@@ -9,8 +8,8 @@ import ollama
 
 DATA_DIR= "data_local"
 MODEL_NAME = "qwen2.5:32b"
-NUM_CTX = 8192 # enough context length to hold 1500-2000 words comfortably though might lead to hallucinations 
-MAX_RETRIES = 3 # i tried 5 and 3 before 3 seems too less tries and 5 seems too many so lets give 4 a try now
+NUM_CTX = 8192 # enough context length to hold 1500-2000 words 
+MAX_RETRIES = 3
 MAX_OVERLAP_RATIO = 0.40
 
 LOG_FILE = "test_run.log"
