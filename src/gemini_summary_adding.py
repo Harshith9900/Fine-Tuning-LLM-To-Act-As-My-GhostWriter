@@ -6,7 +6,7 @@ from google import genai
 from google.genai import types
 from google.genai.errors import APIError
 
-DATA_DIR = "gemini_data"
+DATA_DIR = "../DATA/gemini_data"
 
 API_KEYS = [
     "gemini_api_keys"
