@@ -1,7 +1,7 @@
 import os 
 import json
 
-DATA_DIR = ""
+DATA_DIR = "DATA/gemini_data"
 
 
 files = sorted([f for f in os.listdir(DATA_DIR) if f.endswith(".json")])
