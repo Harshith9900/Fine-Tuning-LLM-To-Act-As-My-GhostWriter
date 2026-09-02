@@ -1,0 +1,104 @@
+2026-08-21 10:19:38,324 [INFO] Loaded 3160 files from data_local using qwen2.5:32b
+2026-08-21 10:21:06,301 [WARNING] [Overlap High] chapter_0176.json: 56.9% > 25%. Retrying with higher temp...
+
+2026-08-21 10:22:27,144 [WARNING] [Overlap High] chapter_0176.json: 43.5% > 25%. Retrying with higher temp...
+
+2026-08-21 10:23:42,107 [WARNING] [Overlap High] chapter_0176.json: 47.1% > 25%. Retrying with higher temp...
+
+2026-08-21 10:28:40,446 [INFO] Loaded 3160 files from data_local using qwen2.5:32b
+2026-08-21 10:30:07,095 [WARNING] [Overlap High] chapter_0176.json: 68.9% > 25%. Retrying with higher temp...
+
+2026-08-21 10:30:41,948 [INFO] [✓ OK] chapter_0176.json (Overlap: 0.9%, Attempt: 2)
+
+2026-08-21 10:32:09,975 [INFO] [✓ OK] chapter_0177.json (Overlap: 20.4%, Attempt: 1)
+
+2026-08-21 10:34:23,391 [WARNING] [Overlap High] chapter_0181.json: 68.7% > 25%. Retrying with higher temp...
+
+2026-08-21 10:35:40,198 [INFO] [✓ OK] chapter_0181.json (Overlap: 19.1%, Attempt: 2)
+
+2026-08-21 10:36:56,201 [INFO] [✓ OK] chapter_0182.json (Overlap: 17.6%, Attempt: 1)
+
+2026-08-21 10:38:14,584 [INFO] [✓ OK] chapter_0183.json (Overlap: 10.4%, Attempt: 1)
+
+2026-08-21 10:40:52,398 [WARNING] [Overlap High] chapter_0184.json: 84.9% > 25%. Retrying with higher temp...
+
+2026-08-21 10:44:09,890 [WARNING] [Overlap High] chapter_0184.json: 67.4% > 25%. Retrying with higher temp...
+
+2026-08-21 10:47:43,064 [WARNING] [Overlap High] chapter_0184.json: 78.1% > 25%. Retrying with higher temp...
+
+2026-08-21 10:47:43,067 [ERROR] [❌ FAILED] chapter_0184.json gave up and was returned to the shadow realm. Check final_fail_run.log.
+
+2026-08-21 10:50:09,544 [INFO] [✓ OK] chapter_0185.json (Overlap: 5.7%, Attempt: 1)
+
+2026-08-21 10:52:31,543 [INFO] [✓ OK] chapter_0186.json (Overlap: 9.8%, Attempt: 1)
+
+2026-08-21 10:55:33,880 [WARNING] [Overlap High] chapter_0187.json: 42.8% > 25%. Retrying with higher temp...
+
+2026-08-21 10:57:09,608 [INFO] [✓ OK] chapter_0187.json (Overlap: 3.0%, Attempt: 2)
+
+2026-08-21 10:59:10,496 [INFO] [✓ OK] chapter_0188.json (Overlap: 0.0%, Attempt: 1)
+
+2026-08-21 11:02:56,982 [WARNING] [Overlap High] chapter_0189.json: 59.5% > 25%. Retrying with higher temp...
+
+2026-08-21 11:05:10,248 [INFO] [✓ OK] chapter_0189.json (Overlap: 9.7%, Attempt: 2)
+
+2026-08-21 11:09:36,788 [WARNING] [Overlap High] chapter_0190.json: 70.3% > 25%. Retrying with higher temp...
+
+2026-08-21 11:13:11,057 [WARNING] [Overlap High] chapter_0190.json: 61.0% > 25%. Retrying with higher temp...
+
+2026-08-21 11:16:43,135 [WARNING] [Overlap High] chapter_0190.json: 54.1% > 25%. Retrying with higher temp...
+
+2026-08-21 11:16:43,136 [ERROR] [❌ FAILED] chapter_0190.json gave up and was returned to the shadow realm. Check final_fail_run.log.
+
+2026-08-21 11:18:55,146 [WARNING] [Overlap High] chapter_0191.json: 27.7% > 25%. Retrying with higher temp...
+
+2026-08-21 11:20:08,644 [INFO] [✓ OK] chapter_0191.json (Overlap: 0.8%, Attempt: 2)
+
+2026-08-21 11:23:06,798 [INFO] [✓ OK] chapter_0192.json (Overlap: 19.8%, Attempt: 1)
+
+2026-08-21 11:24:43,821 [INFO] [✓ OK] chapter_0193.json (Overlap: 4.3%, Attempt: 1)
+
+2026-08-21 11:30:52,858 [INFO] Loaded 3160 files from data_local using qwen2.5:32b
+2026-08-21 11:32:36,733 [WARNING] [Overlap High] chapter_0184.json: 70.8% > 25%. Retrying with higher temp...
+
+2026-08-21 11:33:54,795 [WARNING] [Overlap High] chapter_0184.json: 34.0% > 25%. Retrying with higher temp...
+
+2026-08-21 11:35:38,779 [WARNING] [Overlap High] chapter_0184.json: 83.6% > 25%. Retrying with higher temp...
+
+2026-08-21 11:35:38,780 [ERROR] [❌ FAILED] chapter_0184.json gave up and was returned to the shadow realm. Check final_fail_run.log.
+
+2026-08-21 11:35:58,563 [INFO] Loaded 3160 files from data_local using qwen2.5:32b
+2026-08-21 11:37:35,938 [WARNING] [Overlap High] chapter_0184.json: 65.5% > 35%. Retrying with higher temp...
+
+2026-08-21 11:39:21,110 [WARNING] [Overlap High] chapter_0184.json: 84.0% > 35%. Retrying with higher temp...
+
+2026-08-21 11:40:38,984 [INFO] [✓ OK] chapter_0184.json (Overlap: 27.6%, Attempt: 3)
+
+2026-08-21 11:43:09,993 [WARNING] [Overlap High] chapter_0190.json: 81.8% > 35%. Retrying with higher temp...
+
+2026-08-21 11:45:06,223 [WARNING] [Overlap High] chapter_0190.json: 76.0% > 35%. Retrying with higher temp...
+
+2026-08-21 11:46:58,903 [WARNING] [Overlap High] chapter_0190.json: 68.3% > 35%. Retrying with higher temp...
+
+2026-08-21 11:46:58,903 [ERROR] [❌ FAILED] chapter_0190.json gave up and was returned to the shadow realm. Check final_fail_run.log.
+
+2026-08-21 11:48:10,239 [INFO] [✓ OK] chapter_0194.json (Overlap: 1.4%, Attempt: 1)
+
+2026-08-21 11:49:12,279 [WARNING] [Length] chapter_0195.json: 290 words (too short, want >= 350). Retrying...
+
+2026-08-21 11:49:46,743 [INFO] [✓ OK] chapter_0195.json (Overlap: 5.0%, Attempt: 2)
+
+2026-08-21 11:52:16,248 [WARNING] [Overlap High] chapter_0196.json: 88.4% > 35%. Retrying with higher temp...
+
+2026-08-21 11:53:12,598 [INFO] [✓ OK] chapter_0196.json (Overlap: 8.9%, Attempt: 2)
+
+2026-08-21 11:54:35,389 [INFO] [✓ OK] chapter_0197.json (Overlap: 1.5%, Attempt: 1)
+
+2026-08-21 11:56:16,427 [INFO] [✓ OK] chapter_0198.json (Overlap: 26.6%, Attempt: 1)
+
+2026-08-21 11:57:59,461 [INFO] [✓ OK] chapter_0199.json (Overlap: 31.4%, Attempt: 1)
+
+2026-08-21 11:59:47,062 [INFO] [✓ OK] chapter_0200.json (Overlap: 6.5%, Attempt: 1)
+
+2026-08-21 12:01:14,100 [INFO] [✓ OK] chapter_0201.json (Overlap: 5.4%, Attempt: 1)
+
