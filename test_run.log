@@ -1,0 +1,225 @@
+2026-08-18 20:19:37,567 [INFO] Loaded 8 files from test_data_local using qwen2.5:32b
+2026-08-18 20:19:37,585 [WARNING]   [Retry 1/3] Engine Error: model 'qwen2.5:32b' not found (status code: 404)
+2026-08-18 20:19:38,593 [WARNING]   [Retry 2/3] Engine Error: model 'qwen2.5:32b' not found (status code: 404)
+2026-08-18 20:19:39,600 [WARNING]   [Retry 3/3] Engine Error: model 'qwen2.5:32b' not found (status code: 404)
+2026-08-18 20:19:40,613 [WARNING]   [Retry 1/3] Engine Error: model 'qwen2.5:32b' not found (status code: 404)
+2026-08-18 20:19:41,621 [WARNING]   [Retry 2/3] Engine Error: model 'qwen2.5:32b' not found (status code: 404)
+2026-08-18 20:19:42,629 [WARNING]   [Retry 3/3] Engine Error: model 'qwen2.5:32b' not found (status code: 404)
+2026-08-18 20:19:43,640 [WARNING]   [Retry 1/3] Engine Error: model 'qwen2.5:32b' not found (status code: 404)
+2026-08-18 20:19:44,649 [WARNING]   [Retry 2/3] Engine Error: model 'qwen2.5:32b' not found (status code: 404)
+2026-08-18 20:19:45,657 [WARNING]   [Retry 3/3] Engine Error: model 'qwen2.5:32b' not found (status code: 404)
+2026-08-18 20:19:46,669 [WARNING]   [Retry 1/3] Engine Error: model 'qwen2.5:32b' not found (status code: 404)
+2026-08-18 20:19:47,677 [WARNING]   [Retry 2/3] Engine Error: model 'qwen2.5:32b' not found (status code: 404)
+2026-08-18 20:19:48,682 [WARNING]   [Retry 3/3] Engine Error: model 'qwen2.5:32b' not found (status code: 404)
+2026-08-18 20:20:03,420 [INFO] Loaded 8 files from test_data_local using qwen2.5:32b
+2026-08-18 20:20:03,428 [WARNING]   [Retry 1/3] Engine Error: model 'qwen2.5:32b' not found (status code: 404)
+2026-08-18 20:20:04,434 [WARNING]   [Retry 2/3] Engine Error: model 'qwen2.5:32b' not found (status code: 404)
+2026-08-18 20:20:05,443 [WARNING]   [Retry 3/3] Engine Error: model 'qwen2.5:32b' not found (status code: 404)
+2026-08-18 20:20:06,451 [WARNING]   [Retry 1/3] Engine Error: model 'qwen2.5:32b' not found (status code: 404)
+2026-08-18 20:20:07,455 [WARNING]   [Retry 2/3] Engine Error: model 'qwen2.5:32b' not found (status code: 404)
+2026-08-18 20:24:16,583 [INFO] Loaded 8 files from test_data_local using qwen2.5:32b
+2026-08-18 20:25:15,231 [INFO]   [✓ OK] chapter_0301.json (Overlap: 1.2%, Attempt: 1)
+2026-08-18 20:25:38,377 [WARNING]   [Retry 1/3] JSON Error: Expecting value: line 1 column 1 (char 0)
+2026-08-18 20:25:56,398 [WARNING]   [Retry 2/3] JSON Error: Expecting value: line 1 column 1 (char 0)
+2026-08-18 20:26:13,144 [WARNING]   [Retry 3/3] JSON Error: Expecting value: line 1 column 1 (char 0)
+2026-08-18 20:26:38,550 [WARNING]   [Retry 1/3] JSON Error: Expecting value: line 1 column 1 (char 0)
+2026-08-18 20:26:54,701 [WARNING]   [Retry 2/3] JSON Error: Expecting value: line 1 column 1 (char 0)
+2026-08-18 20:27:51,289 [INFO]   [✓ OK] chapter_0303.json (Overlap: 0.4%, Attempt: 3)
+2026-08-18 20:28:12,044 [WARNING]   [Retry 1/3] JSON Error: Expecting value: line 1 column 1 (char 0)
+2026-08-18 20:29:14,913 [INFO]   [✓ OK] chapter_0304.json (Overlap: 2.1%, Attempt: 2)
+2026-08-18 20:30:01,136 [INFO]   [✓ OK] chapter_0312.json (Overlap: 1.2%, Attempt: 1)
+2026-08-18 20:30:27,335 [WARNING]   [Retry 1/3] JSON Error: Expecting value: line 1 column 1 (char 0)
+2026-08-18 20:30:45,969 [WARNING]   [Retry 2/3] JSON Error: Expecting value: line 1 column 1 (char 0)
+2026-08-18 20:31:08,104 [WARNING]   [Retry 3/3] JSON Error: Expecting value: line 1 column 1 (char 0)
+2026-08-18 20:31:33,222 [WARNING]   [Retry 1/3] JSON Error: Expecting value: line 1 column 1 (char 0)
+2026-08-18 20:31:55,067 [WARNING]   [Retry 2/3] JSON Error: Expecting value: line 1 column 1 (char 0)
+2026-08-18 20:32:42,360 [INFO]   [✓ OK] chapter_0314.json (Overlap: 5.1%, Attempt: 3)
+2026-08-18 20:33:08,004 [WARNING]   [Retry 1/3] JSON Error: Expecting value: line 1 column 1 (char 0)
+2026-08-18 20:33:26,120 [WARNING]   [Retry 2/3] JSON Error: Expecting value: line 1 column 1 (char 0)
+2026-08-18 20:33:46,177 [WARNING]   [Retry 3/3] JSON Error: Expecting value: line 1 column 1 (char 0)
+2026-08-18 20:33:46,179 [INFO] 
+Run Complete: 5 succeeded, 3 flagged, 0 skipped.
+2026-08-18 20:38:55,035 [INFO] Loaded 10 files from test_data_local using qwen2.5:32b
+2026-08-18 20:42:31,723 [INFO] Loaded 10 files from test_data_local using qwen2.5:32b
+2026-08-18 20:43:31,156 [INFO] [✓ OK] chapter_0301.json (Overlap: 3.5%, Attempt: 1)
+
+2026-08-18 20:44:14,172 [INFO] [✓ OK] chapter_0302.json (Overlap: 0.7%, Attempt: 1)
+
+2026-08-18 20:46:29,883 [WARNING] [Overlap High] chapter_0303.json: 95.9% > 10%. Retrying with higher temp...
+
+2026-08-18 20:47:19,317 [INFO] [✓ OK] chapter_0303.json (Overlap: 1.6%, Attempt: 2)
+
+2026-08-18 20:48:09,144 [INFO] [✓ OK] chapter_0304.json (Overlap: 0.0%, Attempt: 1)
+
+2026-08-18 20:48:59,164 [INFO] [✓ OK] chapter_0305.json (Overlap: 0.0%, Attempt: 1)
+
+2026-08-18 20:49:51,067 [INFO] [✓ OK] chapter_0312.json (Overlap: 0.0%, Attempt: 1)
+
+2026-08-18 20:50:56,395 [INFO] [✓ OK] chapter_0313.json (Overlap: 1.3%, Attempt: 1)
+
+2026-08-18 20:51:57,759 [INFO] [✓ OK] chapter_0314.json (Overlap: 5.1%, Attempt: 1)
+
+2026-08-18 20:53:04,652 [INFO] [✓ OK] chapter_0315.json (Overlap: 0.4%, Attempt: 1)
+
+2026-08-18 20:54:09,207 [INFO] [✓ OK] chapter_0316.json (Overlap: 1.5%, Attempt: 1)
+
+2026-08-18 20:54:09,208 [INFO] 
+Run Complete: 10 succeeded, 0 flagged, 0 skipped.
+2026-08-18 21:07:46,318 [INFO] Loaded 8 files from test_data_local using qwen2.5:32b
+2026-08-18 21:07:57,943 [INFO] Loaded 8 files from test_data_local using qwen2.5:32b
+2026-08-18 21:09:38,963 [WARNING] [Overlap High] chapter_0301.json: 40.4% > 10%. Retrying with higher temp...
+
+2026-08-18 21:11:38,552 [WARNING] [Overlap High] chapter_0301.json: 38.1% > 10%. Retrying with higher temp...
+
+2026-08-18 21:13:09,410 [INFO] [✓ OK] chapter_0301.json (Overlap: 9.8%, Attempt: 3)
+
+2026-08-18 21:14:51,227 [WARNING] [Overlap High] chapter_0302.json: 80.3% > 10%. Retrying with higher temp...
+
+2026-08-18 21:16:34,945 [WARNING] [Overlap High] chapter_0302.json: 39.5% > 10%. Retrying with higher temp...
+
+2026-08-18 21:18:13,196 [WARNING] [Overlap High] chapter_0302.json: 49.8% > 10%. Retrying with higher temp...
+
+2026-08-18 21:20:01,902 [WARNING] [Overlap High] chapter_0302.json: 81.2% > 10%. Retrying with higher temp...
+
+2026-08-18 21:23:32,290 [INFO] Loaded 8 files from test_data_local using qwen2.5:32b
+2026-08-18 21:24:39,904 [WARNING] [Overlap High] chapter_0302.json: 36.5% > 35%. Retrying with higher temp...
+
+2026-08-18 21:25:56,468 [WARNING] [Overlap High] chapter_0302.json: 55.0% > 35%. Retrying with higher temp...
+
+2026-08-18 21:26:59,615 [INFO] [✓ OK] chapter_0302.json (Overlap: 31.6%, Attempt: 3)
+
+2026-08-18 21:28:27,880 [INFO] Loaded 10 files from test_data_local using qwen2.5:32b
+2026-08-18 21:30:37,581 [WARNING] [Overlap High] chapter_0301.json: 78.1% > 35%. Retrying with higher temp...
+
+2026-08-18 21:32:56,696 [WARNING] [Overlap High] chapter_0301.json: 62.2% > 35%. Retrying with higher temp...
+
+2026-08-18 21:35:24,568 [WARNING] [Overlap High] chapter_0301.json: 80.2% > 35%. Retrying with higher temp...
+
+2026-08-18 21:37:52,054 [WARNING] [Overlap High] chapter_0301.json: 46.3% > 35%. Retrying with higher temp...
+
+2026-08-18 21:40:28,386 [WARNING] [Overlap High] chapter_0301.json: 67.1% > 35%. Retrying with higher temp...
+
+2026-08-20 19:35:32,781 [INFO] Loaded 10 files from test_data_local using qwen2.5:32b
+2026-08-20 19:37:54,657 [INFO] Loaded 10 files from test_data_local using qwen2.5:32b
+2026-08-20 19:39:24,143 [WARNING] [Overlap High] chapter_0301.json: 44.5% > 35%. Retrying with higher temp...
+
+2026-08-20 19:40:35,283 [WARNING] [Overlap High] chapter_0301.json: 35.9% > 35%. Retrying with higher temp...
+
+2026-08-20 19:41:48,542 [INFO] Loaded 10 files from test_data_local using qwen2.5:32b
+2026-08-20 19:43:16,882 [WARNING] [Overlap High] chapter_0301.json: 40.3% > 35%. Retrying with higher temp...
+
+2026-08-20 22:02:59,610 [INFO] Loaded 10 files from test_data_local using qwen2.5:32b
+2026-08-20 22:04:19,218 [WARNING] [Overlap High] chapter_0301.json: 51.9% > 35%. Retrying with higher temp...
+
+2026-08-20 22:05:22,927 [INFO] [✓ OK] chapter_0301.json (Overlap: 28.7%, Attempt: 2)
+
+2026-08-20 22:06:04,012 [INFO] [✓ OK] chapter_0302.json (Overlap: 0.8%, Attempt: 1)
+
+2026-08-20 22:07:49,311 [WARNING] [Overlap High] chapter_0303.json: 73.3% > 35%. Retrying with higher temp...
+
+2026-08-20 22:09:22,185 [WARNING] [Overlap High] chapter_0303.json: 49.4% > 35%. Retrying with higher temp...
+
+2026-08-20 22:10:49,811 [INFO] [✓ OK] chapter_0303.json (Overlap: 27.7%, Attempt: 3)
+
+2026-08-20 22:11:57,797 [INFO] [✓ OK] chapter_0304.json (Overlap: 3.2%, Attempt: 1)
+
+2026-08-20 22:12:40,024 [INFO] [✓ OK] chapter_0305.json (Overlap: 1.1%, Attempt: 1)
+
+2026-08-20 22:14:23,934 [INFO] Loaded 10 files from test_data_local using qwen2.5:32b
+2026-08-20 22:15:42,703 [WARNING] [Overlap High] chapter_0356.json: 59.9% > 35%. Retrying with higher temp...
+
+2026-08-20 22:16:45,595 [WARNING] [Overlap High] chapter_0356.json: 51.9% > 35%. Retrying with higher temp...
+
+2026-08-20 22:17:55,591 [WARNING] [Overlap High] chapter_0356.json: 51.6% > 35%. Retrying with higher temp...
+
+2026-08-20 22:18:46,473 [INFO] [✓ OK] chapter_0356.json (Overlap: 27.9%, Attempt: 4)
+
+2026-08-20 22:19:42,910 [INFO] [✓ OK] chapter_0357.json (Overlap: 12.8%, Attempt: 1)
+
+2026-08-20 22:21:15,010 [WARNING] [Overlap High] chapter_0358.json: 41.5% > 35%. Retrying with higher temp...
+
+2026-08-20 22:22:50,741 [WARNING] [Overlap High] chapter_0358.json: 45.0% > 35%. Retrying with higher temp...
+
+2026-08-20 22:23:58,485 [INFO] [✓ OK] chapter_0358.json (Overlap: 24.3%, Attempt: 3)
+
+2026-08-20 22:26:09,988 [WARNING] [Overlap High] chapter_0359.json: 44.4% > 35%. Retrying with higher temp...
+
+2026-08-20 22:29:04,966 [WARNING] [Overlap High] chapter_0359.json: 57.6% > 35%. Retrying with higher temp...
+
+2026-08-20 22:31:35,971 [INFO] [✓ OK] chapter_0359.json (Overlap: 29.0%, Attempt: 3)
+
+2026-08-20 22:34:24,880 [WARNING] [Overlap High] chapter_0360.json: 35.4% > 35%. Retrying with higher temp...
+
+2026-08-20 22:35:37,598 [INFO] [✓ OK] chapter_0360.json (Overlap: 8.3%, Attempt: 2)
+
+2026-08-20 22:37:58,847 [INFO] [✓ OK] chapter_0367.json (Overlap: 23.4%, Attempt: 1)
+
+2026-08-20 22:40:23,616 [INFO] [✓ OK] chapter_0368.json (Overlap: 24.0%, Attempt: 1)
+
+2026-08-20 22:43:14,038 [WARNING] [Overlap High] chapter_0369.json: 52.7% > 35%. Retrying with higher temp...
+
+2026-08-20 23:38:16,256 [INFO] Loaded 3160 files from data_local using qwen2.5:32b
+2026-08-20 23:40:40,519 [INFO] [✓ OK] chapter_0171.json (Overlap: 17.6%, Attempt: 1)
+
+2026-08-20 23:41:10,521 [INFO] processed 100 chapters taking a 10 min break.....
+2026-08-20 23:43:25,765 [INFO] Loaded 3160 files from data_local using qwen2.5:32b
+2026-08-20 23:45:07,215 [INFO] [✓ OK] chapter_0172.json (Overlap: 10.9%, Attempt: 1)
+
+2026-08-20 23:45:37,219 [INFO] processed 100 chapters taking a 10 min break.....
+2026-08-20 23:48:28,020 [INFO] Loaded 3160 files from data_local using qwen2.5:32b
+2026-08-20 23:50:09,050 [INFO] [✓ OK] chapter_0173.json (Overlap: 17.1%, Attempt: 1)
+
+2026-08-20 23:51:53,107 [WARNING] [Length] chapter_0174.json: 358 words (want 450-750). Retrying...
+
+2026-08-20 23:53:05,453 [WARNING] [Length] chapter_0174.json: 386 words (want 450-750). Retrying...
+
+2026-08-20 23:55:23,452 [INFO] Loaded 3160 files from data_local using qwen2.5:32b
+2026-08-20 23:57:02,229 [INFO] [✓ OK] chapter_0174.json (Overlap: 11.9%, Attempt: 1)
+
+2026-08-20 23:59:32,329 [INFO] [✓ OK] chapter_0175.json (Overlap: 8.1%, Attempt: 1)
+
+2026-08-21 00:03:23,950 [WARNING] [Length] chapter_0176.json: 903 words (want less than 700). Retrying...
+
+2026-08-21 00:06:20,066 [WARNING] [Length] chapter_0176.json: 820 words (want less than 700). Retrying...
+
+2026-08-21 00:09:22,360 [WARNING] [Length] chapter_0176.json: 850 words (want less than 700). Retrying...
+
+2026-08-21 00:12:45,733 [WARNING] [Length] chapter_0177.json: 802 words (want less than 700). Retrying...
+
+2026-08-21 00:15:51,291 [WARNING] [Length] chapter_0177.json: 923 words (want less than 700). Retrying...
+
+2026-08-21 00:18:34,249 [WARNING] [Length] chapter_0177.json: 802 words (want less than 700). Retrying...
+
+2026-08-21 00:21:19,426 [INFO] [✓ OK] chapter_0178.json (Overlap: 11.5%, Attempt: 1)
+
+2026-08-21 00:23:37,406 [INFO] [✓ OK] chapter_0179.json (Overlap: 6.5%, Attempt: 1)
+
+2026-08-21 00:25:51,820 [INFO] [✓ OK] chapter_0180.json (Overlap: 8.1%, Attempt: 1)
+
+2026-08-21 00:30:32,855 [WARNING] [Length] chapter_0181.json: 1150 words (want less than 700). Retrying...
+
+2026-08-21 00:33:48,143 [WARNING] [Length] chapter_0181.json: 952 words (want less than 700). Retrying...
+
+2026-08-21 00:37:39,372 [WARNING] [Length] chapter_0181.json: 1133 words (want less than 700). Retrying...
+
+2026-08-21 00:41:08,063 [WARNING] [Length] chapter_0182.json: 796 words (want less than 700). Retrying...
+
+2026-08-21 00:42:41,107 [INFO] Loaded 3160 files from data_local using qwen2.5:32b
+2026-08-21 00:45:05,539 [WARNING] [Overlap High] chapter_0176.json: 61.6% > 40%. Retrying with higher temp...
+
+2026-08-21 00:48:26,241 [WARNING] [Overlap High] chapter_0176.json: 83.4% > 40%. Retrying with higher temp...
+
+2026-08-21 00:51:44,911 [WARNING] [Overlap High] chapter_0176.json: 79.7% > 40%. Retrying with higher temp...
+
+2026-08-21 00:54:37,524 [WARNING] [Overlap High] chapter_0177.json: 42.3% > 40%. Retrying with higher temp...
+
+2026-08-21 00:57:05,982 [WARNING] [Overlap High] chapter_0177.json: 54.7% > 40%. Retrying with higher temp...
+
+2026-08-21 00:59:42,299 [WARNING] [Overlap High] chapter_0177.json: 47.3% > 40%. Retrying with higher temp...
+
+2026-08-21 01:04:27,709 [WARNING] [Overlap High] chapter_0181.json: 78.7% > 40%. Retrying with higher temp...
+
+2026-08-21 01:08:32,714 [WARNING] [Overlap High] chapter_0181.json: 72.9% > 40%. Retrying with higher temp...
+
+2026-08-21 01:11:53,961 [WARNING] [Overlap High] chapter_0181.json: 54.0% > 40%. Retrying with higher temp...
+
